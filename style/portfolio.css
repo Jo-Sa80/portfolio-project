@@ -90,7 +90,7 @@ p {
   border-radius: 10px;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1000px) {
   h1 {
     font-size: 44px;
   }
@@ -126,11 +126,9 @@ p {
     padding: 0;
   }
   .about-hero h1 {
-    font-size: 35px;
+    font-size: 44px;
   }
-  .about-hero h2 {
-    font-size: 12px;
-  }
+
   .profile {
     margin-top: 30px;
   }
